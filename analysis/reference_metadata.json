@@ -1,0 +1,19 @@
+{
+  "file": "reference/reference.mp4",
+  "analyzed_at": "2026-07-12T14:16:26+09:00",
+  "duration_sec": 81.68,
+  "duration_str": "01:21.680",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60.0,
+  "frame_count": 4901,
+  "video_stream": "h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 36410 kb/s, 60 fps, 60 tbr, 60k tbn (default)",
+  "audio": {
+    "present": true,
+    "raw": "aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)",
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": "stereo",
+    "bitrate_kbps": 317
+  }
+}

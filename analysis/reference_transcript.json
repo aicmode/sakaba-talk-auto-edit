@@ -1,0 +1,120 @@
+{
+  "file": "reference/reference.mp4",
+  "model": "whisper-large-v3-turbo",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "いらっしゃいませ何名様ですか?",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 2.58,
+      "end": 3.16,
+      "text": "1人です",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 3.16,
+      "end": 3.84,
+      "text": "かしこまりました",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 3.84,
+      "end": 4.96,
+      "text": "こちらの席へどうぞ",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 4.96,
+      "end": 5.68,
+      "text": "ありがとうございます",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 5.68,
+      "end": 8.02,
+      "text": "このようなのはどうされますか?",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 10.02,
+      "end": 11.46,
+      "text": "2階段でかしこまりました",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 11.46,
+      "end": 12.82,
+      "text": "割り方はどうされますか?",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 12.92,
+      "end": 13.84,
+      "text": "お茶割りでお願いします",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 13.84,
+      "end": 14.94,
+      "text": "少々お待ちくださいませ",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "ん",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 40.0,
+      "end": 45.0,
+      "text": "お待たせいたしました南海道のお茶割りになります",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 47.16,
+      "end": 53.2,
+      "text": "店さんはいくつなんですか年25の年になりますね 若いんですねよかったら店員さんもいっぱいどうぞ",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 53.2,
+      "end": 58.4,
+      "text": "ありがとうございます私もお客様と同じものをいただいていいですか はいっ",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 60.0,
+      "end": 63.44,
+      "text": "ありがとうございますいただきます",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 63.44,
+      "end": 66.26,
+      "text": "えっ",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 66.26,
+      "end": 71.56,
+      "text": "こんな時間かうぶちそうです楽しかったですありがとうございます",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 72.1,
+      "end": 75.18,
+      "text": "またお越しくださいません",
+      "no_speech_prob": 0.0
+    },
+    {
+      "start": 79.82,
+      "end": 82.58,
+      "text": "ありがとうございました",
+      "no_speech_prob": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "scene_count": 52,
+  "scenes": [
+    {
+      "index": 1,
+      "start_boundary": "先頭",
+      "start_frame": 0,
+      "end_frame": 55,
+      "start_sec": 0.0,
+      "end_sec": 0.917,
+      "duration_sec": 0.917,
+      "start_str": "00:00.000",
+      "end_str": "00:00.917",
+      "mean_luma": 82.7,
+      "mean_saturation": 105.0,
+      "motion_level": 1.344,
+      "zoom_divergence": 0.1572,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene001_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene001_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene001_bottom.jpg"
+      }
+    },
+    {
+      "index": 2,
+      "start_boundary": "カット",
+      "start_frame": 55,
+      "end_frame": 154,
+      "start_sec": 0.917,
+      "end_sec": 2.567,
+      "duration_sec": 1.65,
+      "start_str": "00:00.917",
+      "end_str": "00:02.567",
+      "mean_luma": 65.3,
+      "mean_saturation": 105.7,
+      "motion_level": 0.463,
+      "zoom_divergence": 0.0823,
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene002_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene002_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene002_bottom.jpg"
+      }
+    },
+    {
+      "index": 3,
+      "start_boundary": "カット",
+      "start_frame": 154,
+      "end_frame": 244,
+      "start_sec": 2.567,
+      "end_sec": 4.067,
+      "duration_sec": 1.5,
+      "start_str": "00:02.567",
+      "end_str": "00:04.067",
+      "mean_luma": 76.8,
+      "mean_saturation": 73.8,
+      "motion_level": 2.989,
+      "zoom_divergence": 0.647,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene003_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene003_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene003_bottom.jpg"
+      }
+    },
+    {
+      "index": 4,
+      "start_boundary": "カット",
+      "start_frame": 244,
+      "end_frame": 404,
+      "start_sec": 4.067,
+      "end_sec": 6.733,
+      "duration_sec": 2.667,
+      "start_str": "00:04.067",
+      "end_str": "00:06.733",
+      "mean_luma": 77.2,
+      "mean_saturation": 102.6,
+      "motion_level": 2.509,
+      "zoom_divergence": -0.243,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene004_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene004_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene004_bottom.jpg"
+      }
+    },
+    {
+      "index": 5,
+      "start_boundary": "カット",
+      "start_frame": 404,
+      "end_frame": 484,
+      "start_sec": 6.733,
+      "end_sec": 8.067,
+      "duration_sec": 1.333,
+      "start_str": "00:06.733",
+      "end_str": "00:08.067",
+      "mean_luma": 57.0,
+      "mean_saturation": 115.8,
+      "motion_level": 0.431,
+      "zoom_divergence": 0.1191,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene005_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene005_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene005_bottom.jpg"
+      }
+    },
+    {
+      "index": 6,
+      "start_boundary": "カット",
+      "start_frame": 484,
+      "end_frame": 614,
+      "start_sec": 8.067,
+      "end_sec": 10.233,
+      "duration_sec": 2.167,
+      "start_str": "00:08.067",
+      "end_str": "00:10.233",
+      "mean_luma": 71.5,
+      "mean_saturation": 4.7,
+      "motion_level": 2.12,
+      "zoom_divergence": 1.7771,
+      "effect_candidates": [
+        "モノクロ",
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene006_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene006_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene006_bottom.jpg"
+      }
+    },
+    {
+      "index": 7,
+      "start_boundary": "カット",
+      "start_frame": 614,
+      "end_frame": 665,
+      "start_sec": 10.233,
+      "end_sec": 11.083,
+      "duration_sec": 0.85,
+      "start_str": "00:10.233",
+      "end_str": "00:11.083",
+      "mean_luma": 65.9,
+      "mean_saturation": 128.5,
+      "motion_level": 3.103,
+      "zoom_divergence": -0.478,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene007_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene007_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene007_bottom.jpg"
+      }
+    },
+    {
+      "index": 8,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 665,
+      "end_frame": 860,
+      "start_sec": 11.083,
+      "end_sec": 14.333,
+      "duration_sec": 3.25,
+      "start_str": "00:11.083",
+      "end_str": "00:14.333",
+      "mean_luma": 66.3,
+      "mean_saturation": 126.3,
+      "motion_level": 2.105,
+      "zoom_divergence": -0.1048,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.614,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene008_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene008_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene008_bottom.jpg"
+      }
+    },
+    {
+      "index": 9,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 860,
+      "end_frame": 908,
+      "start_sec": 14.333,
+      "end_sec": 15.133,
+      "duration_sec": 0.8,
+      "start_str": "00:14.333",
+      "end_str": "00:15.133",
+      "mean_luma": 57.3,
+      "mean_saturation": 122.3,
+      "motion_level": 0.236,
+      "zoom_divergence": -0.1202,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.659,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene009_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene009_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene009_bottom.jpg"
+      }
+    },
+    {
+      "index": 10,
+      "start_boundary": "カット",
+      "start_frame": 908,
+      "end_frame": 991,
+      "start_sec": 15.133,
+      "end_sec": 16.517,
+      "duration_sec": 1.383,
+      "start_str": "00:15.133",
+      "end_str": "00:16.517",
+      "mean_luma": 79.7,
+      "mean_saturation": 87.7,
+      "motion_level": 2.85,
+      "zoom_divergence": -0.245,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene010_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene010_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene010_bottom.jpg"
+      }
+    },
+    {
+      "index": 11,
+      "start_boundary": "カット",
+      "start_frame": 991,
+      "end_frame": 1085,
+      "start_sec": 16.517,
+      "end_sec": 18.083,
+      "duration_sec": 1.567,
+      "start_str": "00:16.517",
+      "end_str": "00:18.083",
+      "mean_luma": 78.2,
+      "mean_saturation": 105.4,
+      "motion_level": 2.318,
+      "zoom_divergence": 0.7229,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene011_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene011_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene011_bottom.jpg"
+      }
+    },
+    {
+      "index": 12,
+      "start_boundary": "カット",
+      "start_frame": 1085,
+      "end_frame": 1155,
+      "start_sec": 18.083,
+      "end_sec": 19.25,
+      "duration_sec": 1.167,
+      "start_str": "00:18.083",
+      "end_str": "00:19.250",
+      "mean_luma": 61.5,
+      "mean_saturation": 164.0,
+      "motion_level": 2.56,
+      "zoom_divergence": -0.2764,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene012_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene012_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene012_bottom.jpg"
+      }
+    },
+    {
+      "index": 13,
+      "start_boundary": "カット",
+      "start_frame": 1155,
+      "end_frame": 1243,
+      "start_sec": 19.25,
+      "end_sec": 20.717,
+      "duration_sec": 1.467,
+      "start_str": "00:19.250",
+      "end_str": "00:20.717",
+      "mean_luma": 75.9,
+      "mean_saturation": 130.3,
+      "motion_level": 2.706,
+      "zoom_divergence": 0.3829,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene013_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene013_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene013_bottom.jpg"
+      }
+    },
+    {
+      "index": 14,
+      "start_boundary": "カット",
+      "start_frame": 1243,
+      "end_frame": 1289,
+      "start_sec": 20.717,
+      "end_sec": 21.483,
+      "duration_sec": 0.767,
+      "start_str": "00:20.717",
+      "end_str": "00:21.483",
+      "mean_luma": 74.9,
+      "mean_saturation": 165.3,
+      "motion_level": 6.344,
+      "zoom_divergence": -1.5622,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene014_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene014_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene014_bottom.jpg"
+      }
+    },
+    {
+      "index": 15,
+      "start_boundary": "カット",
+      "start_frame": 1289,
+      "end_frame": 1343,
+      "start_sec": 21.483,
+      "end_sec": 22.383,
+      "duration_sec": 0.9,
+      "start_str": "00:21.483",
+      "end_str": "00:22.383",
+      "mean_luma": 92.5,
+      "mean_saturation": 72.5,
+      "motion_level": 3.995,
+      "zoom_divergence": 0.0983,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene015_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene015_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene015_bottom.jpg"
+      }
+    },
+    {
+      "index": 16,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 1343,
+      "end_frame": 1390,
+      "start_sec": 22.383,
+      "end_sec": 23.167,
+      "duration_sec": 0.783,
+      "start_str": "00:22.383",
+      "end_str": "00:23.167",
+      "mean_luma": 80.0,
+      "mean_saturation": 88.7,
+      "motion_level": 3.025,
+      "zoom_divergence": -0.0106,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.463,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene016_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene016_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene016_bottom.jpg"
+      }
+    },
+    {
+      "index": 17,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 1390,
+      "end_frame": 1448,
+      "start_sec": 23.167,
+      "end_sec": 24.133,
+      "duration_sec": 0.967,
+      "start_str": "00:23.167",
+      "end_str": "00:24.133",
+      "mean_luma": 81.5,
+      "mean_saturation": 89.5,
+      "motion_level": 3.175,
+      "zoom_divergence": -0.3468,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.832,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene017_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene017_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene017_bottom.jpg"
+      }
+    },
+    {
+      "index": 18,
+      "start_boundary": "カット",
+      "start_frame": 1448,
+      "end_frame": 1494,
+      "start_sec": 24.133,
+      "end_sec": 24.9,
+      "duration_sec": 0.767,
+      "start_str": "00:24.133",
+      "end_str": "00:24.900",
+      "mean_luma": 93.1,
+      "mean_saturation": 77.3,
+      "motion_level": 6.54,
+      "zoom_divergence": 1.754,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene018_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene018_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene018_bottom.jpg"
+      }
+    },
+    {
+      "index": 19,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 1494,
+      "end_frame": 1576,
+      "start_sec": 24.9,
+      "end_sec": 26.267,
+      "duration_sec": 1.367,
+      "start_str": "00:24.900",
+      "end_str": "00:26.267",
+      "mean_luma": 86.6,
+      "mean_saturation": 80.0,
+      "motion_level": 2.681,
+      "zoom_divergence": -0.2885,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.684,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene019_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene019_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene019_bottom.jpg"
+      }
+    },
+    {
+      "index": 20,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 1576,
+      "end_frame": 1623,
+      "start_sec": 26.267,
+      "end_sec": 27.05,
+      "duration_sec": 0.783,
+      "start_str": "00:26.267",
+      "end_str": "00:27.050",
+      "mean_luma": 86.2,
+      "mean_saturation": 80.2,
+      "motion_level": 3.76,
+      "zoom_divergence": -0.0512,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.871,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene020_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene020_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene020_bottom.jpg"
+      }
+    },
+    {
+      "index": 21,
+      "start_boundary": "カット",
+      "start_frame": 1623,
+      "end_frame": 1670,
+      "start_sec": 27.05,
+      "end_sec": 27.833,
+      "duration_sec": 0.783,
+      "start_str": "00:27.050",
+      "end_str": "00:27.833",
+      "mean_luma": 115.6,
+      "mean_saturation": 58.6,
+      "motion_level": 5.667,
+      "zoom_divergence": -1.4748,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene021_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene021_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene021_bottom.jpg"
+      }
+    },
+    {
+      "index": 22,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 1670,
+      "end_frame": 1724,
+      "start_sec": 27.833,
+      "end_sec": 28.733,
+      "duration_sec": 0.9,
+      "start_str": "00:27.833",
+      "end_str": "00:28.733",
+      "mean_luma": 113.6,
+      "mean_saturation": 61.8,
+      "motion_level": 3.343,
+      "zoom_divergence": -0.1539,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.791,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene022_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene022_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene022_bottom.jpg"
+      }
+    },
+    {
+      "index": 23,
+      "start_boundary": "カット",
+      "start_frame": 1724,
+      "end_frame": 1787,
+      "start_sec": 28.733,
+      "end_sec": 29.783,
+      "duration_sec": 1.05,
+      "start_str": "00:28.733",
+      "end_str": "00:29.783",
+      "mean_luma": 79.9,
+      "mean_saturation": 145.3,
+      "motion_level": 2.904,
+      "zoom_divergence": -0.5226,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene023_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene023_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene023_bottom.jpg"
+      }
+    },
+    {
+      "index": 24,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 1787,
+      "end_frame": 1839,
+      "start_sec": 29.783,
+      "end_sec": 30.65,
+      "duration_sec": 0.867,
+      "start_str": "00:29.783",
+      "end_str": "00:30.650",
+      "mean_luma": 80.9,
+      "mean_saturation": 146.4,
+      "motion_level": 2.477,
+      "zoom_divergence": -0.3862,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.862,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene024_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene024_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene024_bottom.jpg"
+      }
+    },
+    {
+      "index": 25,
+      "start_boundary": "カット",
+      "start_frame": 1839,
+      "end_frame": 1968,
+      "start_sec": 30.65,
+      "end_sec": 32.8,
+      "duration_sec": 2.15,
+      "start_str": "00:30.650",
+      "end_str": "00:32.800",
+      "mean_luma": 73.8,
+      "mean_saturation": 145.8,
+      "motion_level": 0.79,
+      "zoom_divergence": -0.0637,
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene025_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene025_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene025_bottom.jpg"
+      }
+    },
+    {
+      "index": 26,
+      "start_boundary": "ディゾルブ候補(要確認)",
+      "start_frame": 1968,
+      "end_frame": 2128,
+      "start_sec": 32.8,
+      "end_sec": 35.467,
+      "duration_sec": 2.667,
+      "start_str": "00:32.800",
+      "end_str": "00:35.467",
+      "mean_luma": 68.0,
+      "mean_saturation": 164.7,
+      "motion_level": 0.531,
+      "zoom_divergence": 0.0228,
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "boundary_similarity": 0.932,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene026_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene026_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene026_bottom.jpg"
+      }
+    },
+    {
+      "index": 27,
+      "start_boundary": "ディゾルブ候補(要確認)",
+      "start_frame": 2128,
+      "end_frame": 2232,
+      "start_sec": 35.467,
+      "end_sec": 37.2,
+      "duration_sec": 1.733,
+      "start_str": "00:35.467",
+      "end_str": "00:37.200",
+      "mean_luma": 69.7,
+      "mean_saturation": 159.1,
+      "motion_level": 1.97,
+      "zoom_divergence": 0.2289,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.93,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene027_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene027_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene027_bottom.jpg"
+      }
+    },
+    {
+      "index": 28,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 2232,
+      "end_frame": 2432,
+      "start_sec": 37.2,
+      "end_sec": 40.533,
+      "duration_sec": 3.333,
+      "start_str": "00:37.200",
+      "end_str": "00:40.533",
+      "mean_luma": 73.3,
+      "mean_saturation": 150.7,
+      "motion_level": 1.782,
+      "zoom_divergence": -0.2431,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.87,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene028_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene028_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene028_bottom.jpg"
+      }
+    },
+    {
+      "index": 29,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 2432,
+      "end_frame": 2501,
+      "start_sec": 40.533,
+      "end_sec": 41.683,
+      "duration_sec": 1.15,
+      "start_str": "00:40.533",
+      "end_str": "00:41.683",
+      "mean_luma": 61.5,
+      "mean_saturation": 131.3,
+      "motion_level": 2.424,
+      "zoom_divergence": -0.9293,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.613,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene029_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene029_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene029_bottom.jpg"
+      }
+    },
+    {
+      "index": 30,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 2501,
+      "end_frame": 2572,
+      "start_sec": 41.683,
+      "end_sec": 42.867,
+      "duration_sec": 1.183,
+      "start_str": "00:41.683",
+      "end_str": "00:42.867",
+      "mean_luma": 65.8,
+      "mean_saturation": 147.5,
+      "motion_level": 1.012,
+      "zoom_divergence": -0.0412,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.629,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene030_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene030_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene030_bottom.jpg"
+      }
+    },
+    {
+      "index": 31,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 2572,
+      "end_frame": 2748,
+      "start_sec": 42.867,
+      "end_sec": 45.8,
+      "duration_sec": 2.933,
+      "start_str": "00:42.867",
+      "end_str": "00:45.800",
+      "mean_luma": 67.9,
+      "mean_saturation": 136.3,
+      "motion_level": 2.129,
+      "zoom_divergence": 0.1594,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.923,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene031_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene031_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene031_bottom.jpg"
+      }
+    },
+    {
+      "index": 32,
+      "start_boundary": "ディゾルブ候補(要確認)",
+      "start_frame": 2748,
+      "end_frame": 2815,
+      "start_sec": 45.8,
+      "end_sec": 46.917,
+      "duration_sec": 1.117,
+      "start_str": "00:45.800",
+      "end_str": "00:46.917",
+      "mean_luma": 72.8,
+      "mean_saturation": 136.7,
+      "motion_level": 1.128,
+      "zoom_divergence": -0.399,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.978,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene032_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene032_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene032_bottom.jpg"
+      }
+    },
+    {
+      "index": 33,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 2815,
+      "end_frame": 2896,
+      "start_sec": 46.917,
+      "end_sec": 48.267,
+      "duration_sec": 1.35,
+      "start_str": "00:46.917",
+      "end_str": "00:48.267",
+      "mean_luma": 51.4,
+      "mean_saturation": 127.0,
+      "motion_level": 2.053,
+      "zoom_divergence": -0.0331,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.56,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene033_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene033_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene033_bottom.jpg"
+      }
+    },
+    {
+      "index": 34,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 2896,
+      "end_frame": 3063,
+      "start_sec": 48.267,
+      "end_sec": 51.05,
+      "duration_sec": 2.783,
+      "start_str": "00:48.267",
+      "end_str": "00:51.050",
+      "mean_luma": 58.1,
+      "mean_saturation": 119.8,
+      "motion_level": 0.784,
+      "zoom_divergence": -0.1402,
+      "effect_candidates": [
+        "ズームアウト候補",
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "boundary_similarity": 0.684,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene034_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene034_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene034_bottom.jpg"
+      }
+    },
+    {
+      "index": 35,
+      "start_boundary": "カット",
+      "start_frame": 3063,
+      "end_frame": 3194,
+      "start_sec": 51.05,
+      "end_sec": 53.233,
+      "duration_sec": 2.183,
+      "start_str": "00:51.050",
+      "end_str": "00:53.233",
+      "mean_luma": 71.3,
+      "mean_saturation": 119.8,
+      "motion_level": 0.696,
+      "zoom_divergence": 0.0384,
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene035_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene035_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene035_bottom.jpg"
+      }
+    },
+    {
+      "index": 36,
+      "start_boundary": "カット",
+      "start_frame": 3194,
+      "end_frame": 3376,
+      "start_sec": 53.233,
+      "end_sec": 56.267,
+      "duration_sec": 3.033,
+      "start_str": "00:53.233",
+      "end_str": "00:56.267",
+      "mean_luma": 56.4,
+      "mean_saturation": 124.1,
+      "motion_level": 0.481,
+      "zoom_divergence": -0.0473,
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene036_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene036_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene036_bottom.jpg"
+      }
+    },
+    {
+      "index": 37,
+      "start_boundary": "カット",
+      "start_frame": 3376,
+      "end_frame": 3425,
+      "start_sec": 56.267,
+      "end_sec": 57.083,
+      "duration_sec": 0.817,
+      "start_str": "00:56.267",
+      "end_str": "00:57.083",
+      "mean_luma": 73.0,
+      "mean_saturation": 130.2,
+      "motion_level": 3.73,
+      "zoom_divergence": 0.1482,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene037_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene037_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene037_bottom.jpg"
+      }
+    },
+    {
+      "index": 38,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 3425,
+      "end_frame": 3506,
+      "start_sec": 57.083,
+      "end_sec": 58.433,
+      "duration_sec": 1.35,
+      "start_str": "00:57.083",
+      "end_str": "00:58.433",
+      "mean_luma": 77.2,
+      "mean_saturation": 153.6,
+      "motion_level": 0.99,
+      "zoom_divergence": -0.1563,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.871,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene038_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene038_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene038_bottom.jpg"
+      }
+    },
+    {
+      "index": 39,
+      "start_boundary": "カット",
+      "start_frame": 3506,
+      "end_frame": 3612,
+      "start_sec": 58.433,
+      "end_sec": 60.2,
+      "duration_sec": 1.767,
+      "start_str": "00:58.433",
+      "end_str": "01:00.200",
+      "mean_luma": 87.3,
+      "mean_saturation": 78.8,
+      "motion_level": 0.728,
+      "zoom_divergence": 0.1402,
+      "effect_candidates": [
+        "ズームイン候補",
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene039_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene039_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene039_bottom.jpg"
+      }
+    },
+    {
+      "index": 40,
+      "start_boundary": "カット",
+      "start_frame": 3612,
+      "end_frame": 3711,
+      "start_sec": 60.2,
+      "end_sec": 61.85,
+      "duration_sec": 1.65,
+      "start_str": "01:00.200",
+      "end_str": "01:01.850",
+      "mean_luma": 57.5,
+      "mean_saturation": 122.4,
+      "motion_level": 0.795,
+      "zoom_divergence": -0.1037,
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene040_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene040_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene040_bottom.jpg"
+      }
+    },
+    {
+      "index": 41,
+      "start_boundary": "カット",
+      "start_frame": 3711,
+      "end_frame": 3769,
+      "start_sec": 61.85,
+      "end_sec": 62.817,
+      "duration_sec": 0.967,
+      "start_str": "01:01.850",
+      "end_str": "01:02.817",
+      "mean_luma": 84.5,
+      "mean_saturation": 185.1,
+      "motion_level": 2.109,
+      "zoom_divergence": -0.2622,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene041_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene041_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene041_bottom.jpg"
+      }
+    },
+    {
+      "index": 42,
+      "start_boundary": "カット",
+      "start_frame": 3769,
+      "end_frame": 3871,
+      "start_sec": 62.817,
+      "end_sec": 64.517,
+      "duration_sec": 1.7,
+      "start_str": "01:02.817",
+      "end_str": "01:04.517",
+      "mean_luma": 82.7,
+      "mean_saturation": 103.1,
+      "motion_level": 0.817,
+      "zoom_divergence": 0.1464,
+      "effect_candidates": [
+        "ズームイン候補",
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene042_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene042_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene042_bottom.jpg"
+      }
+    },
+    {
+      "index": 43,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 3871,
+      "end_frame": 3933,
+      "start_sec": 64.517,
+      "end_sec": 65.55,
+      "duration_sec": 1.033,
+      "start_str": "01:04.517",
+      "end_str": "01:05.550",
+      "mean_luma": 58.3,
+      "mean_saturation": 117.7,
+      "motion_level": 3.279,
+      "zoom_divergence": 0.6464,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.621,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene043_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene043_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene043_bottom.jpg"
+      }
+    },
+    {
+      "index": 44,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 3933,
+      "end_frame": 4036,
+      "start_sec": 65.55,
+      "end_sec": 67.267,
+      "duration_sec": 1.717,
+      "start_str": "01:05.550",
+      "end_str": "01:07.267",
+      "mean_luma": 71.7,
+      "mean_saturation": 135.0,
+      "motion_level": 3.084,
+      "zoom_divergence": -0.6241,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": -0.003,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene044_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene044_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene044_bottom.jpg"
+      }
+    },
+    {
+      "index": 45,
+      "start_boundary": "ディゾルブ候補(要確認)",
+      "start_frame": 4036,
+      "end_frame": 4158,
+      "start_sec": 67.267,
+      "end_sec": 69.3,
+      "duration_sec": 2.033,
+      "start_str": "01:07.267",
+      "end_str": "01:09.300",
+      "mean_luma": 64.7,
+      "mean_saturation": 135.2,
+      "motion_level": 2.692,
+      "zoom_divergence": -0.2582,
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.94,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene045_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene045_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene045_bottom.jpg"
+      }
+    },
+    {
+      "index": 46,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 4158,
+      "end_frame": 4205,
+      "start_sec": 69.3,
+      "end_sec": 70.083,
+      "duration_sec": 0.783,
+      "start_str": "01:09.300",
+      "end_str": "01:10.083",
+      "mean_luma": 58.5,
+      "mean_saturation": 123.7,
+      "motion_level": 0.595,
+      "zoom_divergence": -0.0244,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "boundary_similarity": 0.695,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene046_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene046_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene046_bottom.jpg"
+      }
+    },
+    {
+      "index": 47,
+      "start_boundary": "カット",
+      "start_frame": 4205,
+      "end_frame": 4335,
+      "start_sec": 70.083,
+      "end_sec": 72.25,
+      "duration_sec": 2.167,
+      "start_str": "01:10.083",
+      "end_str": "01:12.250",
+      "mean_luma": 4.6,
+      "mean_saturation": 0.0,
+      "motion_level": 0.185,
+      "zoom_divergence": -0.0141,
+      "effect_candidates": [
+        "黒背景"
+      ],
+      "product_image_candidate": true,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene047_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene047_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene047_bottom.jpg"
+      }
+    },
+    {
+      "index": 48,
+      "start_boundary": "カット",
+      "start_frame": 4335,
+      "end_frame": 4412,
+      "start_sec": 72.25,
+      "end_sec": 73.533,
+      "duration_sec": 1.283,
+      "start_str": "01:12.250",
+      "end_str": "01:13.533",
+      "mean_luma": 58.6,
+      "mean_saturation": 124.6,
+      "motion_level": 0.123,
+      "zoom_divergence": 0.0222,
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene048_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene048_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene048_bottom.jpg"
+      }
+    },
+    {
+      "index": 49,
+      "start_boundary": "カット",
+      "start_frame": 4412,
+      "end_frame": 4585,
+      "start_sec": 73.533,
+      "end_sec": 76.417,
+      "duration_sec": 2.883,
+      "start_str": "01:13.533",
+      "end_str": "01:16.417",
+      "mean_luma": 71.5,
+      "mean_saturation": 101.7,
+      "motion_level": 2.141,
+      "zoom_divergence": 0.2916,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene049_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene049_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene049_bottom.jpg"
+      }
+    },
+    {
+      "index": 50,
+      "start_boundary": "カット",
+      "start_frame": 4585,
+      "end_frame": 4724,
+      "start_sec": 76.417,
+      "end_sec": 78.733,
+      "duration_sec": 2.317,
+      "start_str": "01:16.417",
+      "end_str": "01:18.733",
+      "mean_luma": 101.4,
+      "mean_saturation": 78.7,
+      "motion_level": 4.349,
+      "zoom_divergence": 0.8782,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene050_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene050_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene050_bottom.jpg"
+      }
+    },
+    {
+      "index": 51,
+      "start_boundary": "ディゾルブ候補",
+      "start_frame": 4724,
+      "end_frame": 4798,
+      "start_sec": 78.733,
+      "end_sec": 79.967,
+      "duration_sec": 1.233,
+      "start_str": "01:18.733",
+      "end_str": "01:19.967",
+      "mean_luma": 98.7,
+      "mean_saturation": 90.8,
+      "motion_level": 6.739,
+      "zoom_divergence": 1.4319,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "boundary_similarity": -0.301,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene051_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene051_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene051_bottom.jpg"
+      }
+    },
+    {
+      "index": 52,
+      "start_boundary": "カット",
+      "start_frame": 4798,
+      "end_frame": 4901,
+      "start_sec": 79.967,
+      "end_sec": 81.68,
+      "duration_sec": 1.713,
+      "start_str": "01:19.967",
+      "end_str": "01:21.680",
+      "mean_luma": 142.5,
+      "mean_saturation": 75.6,
+      "motion_level": 1.994,
+      "zoom_divergence": 0.4539,
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "frames": {
+        "start": "analysis/reference_frames/scenes/scene052_start_*.jpg",
+        "mid": "analysis/reference_frames/scenes/scene052_mid_*.jpg",
+        "telop_crop": "analysis/reference_frames/telop/scene052_bottom.jpg"
+      }
+    }
+  ]
+}

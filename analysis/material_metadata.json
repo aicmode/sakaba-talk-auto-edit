@@ -1,0 +1,1806 @@
+{
+  "generated_at": "2026-07-12T14:59:27+09:00",
+  "material_count": 25,
+  "materials": [
+    {
+      "name": "課題素材1",
+      "file": "videos/課題素材1.mov",
+      "duration_sec": 10.8,
+      "duration_str": "00:10.800",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 324,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11450 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 123 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:47+09:00",
+      "scan": {
+        "n_frames": 324,
+        "mean_luma": 91.8,
+        "mean_saturation": 75.6,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材1/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材1.wav",
+        "waveform": "analysis/material_audio/課題素材1_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.5,
+          0.85
+        ],
+        [
+          1.65,
+          3.35
+        ],
+        [
+          4.25,
+          4.6
+        ],
+        [
+          5.45,
+          5.9
+        ],
+        [
+          6.8,
+          8.1
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 9.66,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.484,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "製氷機のフタを開け、スコップで氷をすくって白い容器(グラス)に注ぐ手元クローズアップ。実発話なし(冒頭に撮影合図らしき声)。",
+      "candidate_reference_scenes": "見本18〜22(氷すくい)",
+      "audio_usage": "環境音のみ可",
+      "audio_exclusions": "0-9.6秒の『OK』(撮影合図・幻聴疑い)"
+    },
+    {
+      "name": "課題素材2",
+      "file": "videos/課題素材2.mov",
+      "duration_sec": 11.45,
+      "duration_str": "00:11.450",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 343,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12326 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:48+09:00",
+      "scan": {
+        "n_frames": 343,
+        "mean_luma": 75.1,
+        "mean_saturation": 121.7,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材2/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材2.wav",
+        "waveform": "analysis/material_audio/課題素材2_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          1.4,
+          1.65
+        ],
+        [
+          3.45,
+          5.35
+        ],
+        [
+          5.9,
+          6.35
+        ],
+        [
+          6.75,
+          8.2
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "OKです",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.0,
+          "end": 4.06,
+          "text": "お会いにですね",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 4.06,
+          "end": 5.72,
+          "text": "よかったら店員さんもいっぱいどうぞ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 5.72,
+          "end": 6.22,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 6.22,
+          "end": 8.54,
+          "text": "私もお客様と同じものをいただいていいですか",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 8.54,
+          "end": 9.02,
+          "text": "はい",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 9.02,
+          "end": 10.08,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.326,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "カウンター席の客(横からの寄り)。『お若いんですね』『よかったら店員さんも一杯どうぞ』『(店員:私もお客様と…)』『はい』の会話一式を客側アングルで収録。",
+      "candidate_reference_scenes": "見本35・37",
+      "audio_usage": "2.0-5.72(お若いんですね〜一杯どうぞ)/8.4-9.1(はい)",
+      "audio_exclusions": "0-2.0『OKです』(撮影前)、6.22-8.54『私も…』(素材21と重複のため素材21側を使用)"
+    },
+    {
+      "name": "課題素材3",
+      "file": "videos/課題素材3.mov",
+      "duration_sec": 7.97,
+      "duration_str": "00:07.970",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 239,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 10720 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 121 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:49+09:00",
+      "scan": {
+        "n_frames": 239,
+        "mean_luma": 61.5,
+        "mean_saturation": 114.5,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材3/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材3.wav",
+        "waveform": "analysis/material_audio/課題素材3_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          1.3,
+          1.75
+        ],
+        [
+          3.0,
+          4.6
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.42,
+          "text": "割り方はどうされますか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.199,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.66,
+          "end": 4.68,
+          "text": "ロックじゃなくてお茶割りでお願いします",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.199,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 4.68,
+          "end": 5.72,
+          "text": "かしこまりました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.199,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員(バストアップ・店員側アングル)。『割り方はどうされますか?』客オフ声『ロックじゃなくてお茶割りで』『かしこまりました』。",
+      "candidate_reference_scenes": "見本8中盤",
+      "audio_usage": "0.2-2.42(割り方はどうされますか)",
+      "audio_exclusions": "2.66-4.68(客セリフ、素材22と重複)/4.68-5.72(かしこまりました、素材11と重複)"
+    },
+    {
+      "name": "課題素材4",
+      "file": "videos/課題素材4.mov",
+      "duration_sec": 13.37,
+      "duration_str": "00:13.370",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 401,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12645 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:51+09:00",
+      "scan": {
+        "n_frames": 401,
+        "mean_luma": 80.9,
+        "mean_saturation": 115.9,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材4/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材4.wav",
+        "waveform": "analysis/material_audio/課題素材4_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.0,
+          0.3
+        ],
+        [
+          2.6,
+          2.95
+        ],
+        [
+          3.45,
+          3.75
+        ],
+        [
+          5.3,
+          5.9
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "オッケーです",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.459,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.0,
+          "end": 3.0,
+          "text": "あ、一人です",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.459,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 3.0,
+          "end": 4.0,
+          "text": "かしこまりました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.459,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 4.0,
+          "end": 5.0,
+          "text": "こちらの席へどうぞ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.459,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 5.0,
+          "end": 6.0,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.459,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "入店シーン。客がドアから入り、指1本で『一人です』、オフ声『かしこまりました』『こちらの席へどうぞ』、席に着く。",
+      "candidate_reference_scenes": "見本1・3・4",
+      "audio_usage": "2.0-6.0(一人です〜ありがとうございます)",
+      "audio_exclusions": "0-2.0『OKです』(撮影前)"
+    },
+    {
+      "name": "課題素材5",
+      "file": "videos/課題素材5.mov",
+      "duration_sec": 12.61,
+      "duration_str": "00:12.610",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 378,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12671 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:52+09:00",
+      "scan": {
+        "n_frames": 378,
+        "mean_luma": 87.7,
+        "mean_saturation": 77.5,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材5/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材5.wav",
+        "waveform": "analysis/material_audio/課題素材5_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          3.8,
+          4.15
+        ],
+        [
+          8.8,
+          9.4
+        ],
+        [
+          10.0,
+          10.3
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 9.52,
+          "text": "すみませんありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.38,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 9.52,
+          "end": 10.4,
+          "text": "いただきます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.38,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員が自分のドリンクを作る(横からの引き)。後ろ姿→ボトル→注ぐ→グラスを持つ。音声は素材16と同内容のため映像のみ使用。",
+      "candidate_reference_scenes": "見本39(後ろ姿)",
+      "audio_usage": "使用しない",
+      "audio_exclusions": "全音声(素材16と重複)"
+    },
+    {
+      "name": "課題素材6",
+      "file": "videos/課題素材6.mov",
+      "duration_sec": 39.29,
+      "duration_str": "00:39.290",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.015,
+      "frame_count": 1179,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12631 kb/s, 30.02 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 125 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:55+09:00",
+      "scan": {
+        "n_frames": 1179,
+        "mean_luma": 77.2,
+        "mean_saturation": 146.0,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材6/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材6.wav",
+        "waveform": "analysis/material_audio/課題素材6_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          14.15,
+          14.4
+        ],
+        [
+          28.9,
+          29.15
+        ],
+        [
+          32.25,
+          32.55
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "おやすみなさい",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -1.05,
+          "suspected_hallucination": true
+        },
+        {
+          "start": 30.0,
+          "end": 59.98,
+          "text": "ご視聴ありがとうございました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.688,
+          "suspected_hallucination": true
+        }
+      ],
+      "content_description": "ドリンク作成の正面クローズアップ一連(39秒)。グラス+氷→二階堂を注ぐ→お茶を注ぐ→マドラーで混ぜる→完成。実発話なし。",
+      "candidate_reference_scenes": "見本23〜28(作成工程)",
+      "audio_usage": "環境音のみ可",
+      "audio_exclusions": "幻聴疑いセグメント"
+    },
+    {
+      "name": "課題素材7",
+      "file": "videos/課題素材7.mov",
+      "duration_sec": 2.8,
+      "duration_str": "00:02.800",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 84,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11033 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 123 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:56+09:00",
+      "scan": {
+        "n_frames": 84,
+        "mean_luma": 73.7,
+        "mean_saturation": 160.5,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材7/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材7.wav",
+        "waveform": "analysis/material_audio/課題素材7_waveform.png"
+      },
+      "speech_segments_rms": [],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 29.98,
+          "text": "ご視聴ありがとうございました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.373,
+          "suspected_hallucination": true
+        }
+      ],
+      "content_description": "乾杯の手元クローズアップ(2.8秒)。グラス2つがぶつかる。",
+      "candidate_reference_scenes": "見本41(乾杯)",
+      "audio_usage": "乾杯の現場音",
+      "audio_exclusions": "幻聴疑いセグメント"
+    },
+    {
+      "name": "課題素材8",
+      "file": "videos/課題素材8.mov",
+      "duration_sec": 22.55,
+      "duration_str": "00:22.550",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 676,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12369 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 125 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:58+09:00",
+      "scan": {
+        "n_frames": 676,
+        "mean_luma": 71.1,
+        "mean_saturation": 137.7,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材8/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材8.wav",
+        "waveform": "analysis/material_audio/課題素材8_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.8,
+          1.1
+        ],
+        [
+          9.6,
+          9.95
+        ],
+        [
+          20.6,
+          20.85
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 3.0,
+          "text": "ok",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.607,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 6.0,
+          "end": 10.0,
+          "text": "お待たせいたしました ジャニーカイドウのお茶割りになります",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.607,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 10.0,
+          "end": 12.0,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.607,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 20.0,
+          "end": 22.0,
+          "text": "ok",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.607,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客席アングル。提供(手がグラスを置く)→『お待たせいたしました二階堂のお茶割りになります』(オフ)→『ありがとうございます』→客がスマホを見ながら一口飲む。",
+      "candidate_reference_scenes": "見本30〜32(グラス寄り・一口目)",
+      "audio_usage": "10.3-12.0(ありがとうございます)",
+      "audio_exclusions": "0-3/20-22『OK』(撮影前後)、6-10(提供セリフは素材14側を使用)"
+    },
+    {
+      "name": "課題素材9",
+      "file": "videos/課題素材9.mov",
+      "duration_sec": 9.4,
+      "duration_str": "00:09.400",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 282,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12240 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 121 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:59+09:00",
+      "scan": {
+        "n_frames": 282,
+        "mean_luma": 70.3,
+        "mean_saturation": 138.1,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材9/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材9.wav",
+        "waveform": "analysis/material_audio/課題素材9_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          2.45,
+          3.25
+        ],
+        [
+          4.2,
+          5.25
+        ],
+        [
+          5.8,
+          6.35
+        ],
+        [
+          6.95,
+          7.3
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 3.22,
+          "text": "こんな時間か",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.325,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 3.22,
+          "end": 5.48,
+          "text": "ごちそうさまです楽しかったです",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.325,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 5.48,
+          "end": 6.18,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.325,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 6.18,
+          "end": 7.74,
+          "text": "またお越しくださいませ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.325,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客席アングル。空きグラスとスマホ→『こんな時間か』『ごちそうさまです楽しかったです』、オフ声『ありがとうございます』『またお越しくださいませ』。",
+      "candidate_reference_scenes": "見本43〜45(統合)",
+      "audio_usage": "0.0-5.48(こんな時間か〜楽しかったです)",
+      "audio_exclusions": "5.48-7.74(店員セリフは素材12側を使用)"
+    },
+    {
+      "name": "課題素材10",
+      "file": "videos/課題素材10.mov",
+      "duration_sec": 4.88,
+      "duration_str": "00:04.880",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 146,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12735 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:33:59+09:00",
+      "scan": {
+        "n_frames": 146,
+        "mean_luma": 70.4,
+        "mean_saturation": 106.6,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材10/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材10.wav",
+        "waveform": "analysis/material_audio/課題素材10_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.9,
+          1.15
+        ],
+        [
+          2.6,
+          3.8
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 0.8,
+          "text": "行きますか",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.309,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 0.8,
+          "end": 1.1,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.309,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 1.1,
+          "end": 2.98,
+          "text": "いらっしゃいませ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.309,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.98,
+          "end": 3.94,
+          "text": "何名様ですか",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.309,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員正面(引き)。『いらっしゃいませ』『何名様ですか』。",
+      "candidate_reference_scenes": "見本2(冒頭挨拶)",
+      "audio_usage": "1.10-3.94(いらっしゃいませ〜何名様ですか)",
+      "audio_exclusions": "0-1.1『行きますか/OK』(撮影前)"
+    },
+    {
+      "name": "課題素材11",
+      "file": "videos/課題素材11.mov",
+      "duration_sec": 9.1,
+      "duration_str": "00:09.100",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 273,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 10536 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 125 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:00+09:00",
+      "scan": {
+        "n_frames": 273,
+        "mean_luma": 59.9,
+        "mean_saturation": 116.8,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材11/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材11.wav",
+        "waveform": "analysis/material_audio/課題素材11_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.7,
+          1.1
+        ],
+        [
+          2.4,
+          4.75
+        ],
+        [
+          5.8,
+          6.75
+        ],
+        [
+          7.55,
+          7.8
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "このようなどうされますか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.437,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.0,
+          "end": 5.0,
+          "text": "何にしようかなぁ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.437,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 5.0,
+          "end": 9.0,
+          "text": "じゃあ2回路でかしこまりました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.437,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員(引き・客の後頭部入り)。『お飲み物どうされますか?』客『何にしようかなぁ』『じゃあ二階堂で』『かしこまりました』。",
+      "candidate_reference_scenes": "見本5〜8前半",
+      "audio_usage": "0.0-2.0/2.6-4.8/5.4-6.4/7.4-8.3(4セリフに分割使用)",
+      "audio_exclusions": "なし"
+    },
+    {
+      "name": "課題素材12",
+      "file": "videos/課題素材12.mov",
+      "duration_sec": 6.63,
+      "duration_str": "00:06.630",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 199,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 10266 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 119 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:01+09:00",
+      "scan": {
+        "n_frames": 199,
+        "mean_luma": 62.7,
+        "mean_saturation": 125.9,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材12/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材12.wav",
+        "waveform": "analysis/material_audio/課題素材12_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          1.25,
+          1.8
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 1.6,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.474,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 1.6,
+          "end": 3.38,
+          "text": "またお越しくださいませ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.474,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 3.38,
+          "end": 5.84,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.474,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員正面(客の頭が前景)。『ありがとうございます』『またお越しくださいませ』。",
+      "candidate_reference_scenes": "見本46・48",
+      "audio_usage": "0.0-1.6/1.6-3.38",
+      "audio_exclusions": "3.38-5.84『OK』(撮影後)"
+    },
+    {
+      "name": "課題素材13",
+      "file": "videos/課題素材13.mov",
+      "duration_sec": 5.4,
+      "duration_str": "00:05.400",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 162,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12407 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 126 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:02+09:00",
+      "scan": {
+        "n_frames": 162,
+        "mean_luma": 89.5,
+        "mean_saturation": 82.0,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材13/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材13.wav",
+        "waveform": "analysis/material_audio/課題素材13_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.95,
+          1.35
+        ],
+        [
+          3.85,
+          4.15
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "おやすみなさい。",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -1.188,
+          "suspected_hallucination": true
+        }
+      ],
+      "content_description": "カウンター下の冷蔵庫を開けてグラスを取る手元(5.4秒)。実発話なし。",
+      "candidate_reference_scenes": "見本15〜17(統合)",
+      "audio_usage": "環境音のみ可",
+      "audio_exclusions": "幻聴疑いセグメント"
+    },
+    {
+      "name": "課題素材14",
+      "file": "videos/課題素材14.mov",
+      "duration_sec": 18.9,
+      "duration_str": "00:18.900",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 567,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11949 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 126 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:04+09:00",
+      "scan": {
+        "n_frames": 567,
+        "mean_luma": 63.6,
+        "mean_saturation": 119.1,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材14/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材14.wav",
+        "waveform": "analysis/material_audio/課題素材14_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          7.05,
+          7.3
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 4.4,
+          "text": "すみません、お待たせいたしました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.446,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 4.4,
+          "end": 6.78,
+          "text": "じゃあ、2回とのお茶割りになります",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.446,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 6.78,
+          "end": 7.2,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.446,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 7.2,
+          "end": 18.14,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.446,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員側アングルの提供。『すみません、お待たせいたしました』『二階堂のお茶割りになります』、客オフ『ありがとうございます』。7秒以降は無言の立ち姿。",
+      "candidate_reference_scenes": "見本29(提供)",
+      "audio_usage": "1.9-6.78(お待たせいたしました〜になります)",
+      "audio_exclusions": "0-1.9『すみません』(呼びかけ・見本に無し)、7.2以降(無言・撮影余り)"
+    },
+    {
+      "name": "課題素材15",
+      "file": "videos/課題素材15.mov",
+      "duration_sec": 15.9,
+      "duration_str": "00:15.900",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 477,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12672 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 125 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:05+09:00",
+      "scan": {
+        "n_frames": 477,
+        "mean_luma": 79.5,
+        "mean_saturation": 116.9,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材15/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材15.wav",
+        "waveform": "analysis/material_audio/課題素材15_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          13.75,
+          14.0
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "いきます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -1.144,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "バックバーで二階堂ボトルを棚から取る→カメラに提示→カウンターに置く→屈んでお茶ペットボトルを出して置く一連(15.9秒)。",
+      "candidate_reference_scenes": "見本10〜14(ボトル準備一連)",
+      "audio_usage": "使用しない",
+      "audio_exclusions": "0-2『いきます』(撮影合図)"
+    },
+    {
+      "name": "課題素材16",
+      "file": "videos/課題素材16.mov",
+      "duration_sec": 15.57,
+      "duration_str": "00:15.570",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 467,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11726 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:07+09:00",
+      "scan": {
+        "n_frames": 467,
+        "mean_luma": 61.5,
+        "mean_saturation": 125.2,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材16/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材16.wav",
+        "waveform": "analysis/material_audio/課題素材16_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          8.65,
+          9.15
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 9.38,
+          "text": "すみませんありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.448,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 9.38,
+          "end": 10.3,
+          "text": "いただきます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.448,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 10.3,
+          "end": 14.66,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.448,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客席アングル。店員が自分のドリンクを作って混ぜる→『(すみません)ありがとうございます』『いただきます』→ごくごく飲む。",
+      "candidate_reference_scenes": "見本38・40・42",
+      "audio_usage": "8.4-10.3(ありがとうございます いただきます)",
+      "audio_exclusions": "0-8.4(すみません等・撮影段取り声)"
+    },
+    {
+      "name": "課題素材17",
+      "file": "videos/課題素材17.mov",
+      "duration_sec": 10.67,
+      "duration_str": "00:10.670",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 320,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12444 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:08+09:00",
+      "scan": {
+        "n_frames": 320,
+        "mean_luma": 72.2,
+        "mean_saturation": 127.9,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材17/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材17.wav",
+        "waveform": "analysis/material_audio/課題素材17_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          1.6,
+          2.4
+        ],
+        [
+          4.15,
+          4.65
+        ],
+        [
+          5.1,
+          6.55
+        ],
+        [
+          9.6,
+          9.85
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.56,
+          "text": "デニーさんはいくつなんですか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.573,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 3.34,
+          "end": 4.18,
+          "text": "えっと僕今年",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.573,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 4.18,
+          "end": 7.56,
+          "text": "25の年になりますね",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.573,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 7.56,
+          "end": 9.72,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.573,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客席(横からの寄り)。『店員さんはいくつなんですか?』店員オフ『えっと僕今年25の年になりますね』。",
+      "candidate_reference_scenes": "見本33(質問)",
+      "audio_usage": "0.0-2.56(店員さんはいくつなんですか)",
+      "audio_exclusions": "3.34-7.56(店員の回答は素材20側を使用)"
+    },
+    {
+      "name": "課題素材18",
+      "file": "videos/課題素材18.mov",
+      "duration_sec": 2.5,
+      "duration_str": "00:02.500",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 75,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 12767 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 122 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:09+09:00",
+      "scan": {
+        "n_frames": 75,
+        "mean_luma": 85.4,
+        "mean_saturation": 81.5,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材18/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材18.wav",
+        "waveform": "analysis/material_audio/課題素材18_waveform.png"
+      },
+      "speech_segments_rms": [],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "ありがとうございました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.592,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "別の棚(白壁)から酒瓶を取る引きショット(2.5秒)。見本の棚(素材15の背景)と一致しないため未使用。",
+      "candidate_reference_scenes": "対応なし(未使用)",
+      "audio_usage": "使用しない",
+      "audio_exclusions": "全体"
+    },
+    {
+      "name": "課題素材19",
+      "file": "videos/課題素材19.mov",
+      "duration_sec": 3.87,
+      "duration_str": "00:03.870",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.24,
+      "frame_count": 117,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 9492 kb/s, 30.24 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 121 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:09+09:00",
+      "scan": {
+        "n_frames": 117,
+        "mean_luma": 60.9,
+        "mean_saturation": 125.4,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材19/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材19.wav",
+        "waveform": "analysis/material_audio/課題素材19_waveform.png"
+      },
+      "speech_segments_rms": [],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "少々お待ちくださいませ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.371,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員がお辞儀『少々お待ちくださいませ』(3.9秒)。",
+      "candidate_reference_scenes": "見本9",
+      "audio_usage": "0.3-2.0(少々お待ちくださいませ)",
+      "audio_exclusions": "なし"
+    },
+    {
+      "name": "課題素材20",
+      "file": "videos/課題素材20.mov",
+      "duration_sec": 11.7,
+      "duration_str": "00:11.700",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 351,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11074 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:11+09:00",
+      "scan": {
+        "n_frames": 351,
+        "mean_luma": 61.8,
+        "mean_saturation": 120.0,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材20/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材20.wav",
+        "waveform": "analysis/material_audio/課題素材20_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          2.6,
+          3.4
+        ],
+        [
+          6.5,
+          7.45
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 3.56,
+          "text": "リンさんはいくつなんですか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.589,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 4.34,
+          "end": 8.48,
+          "text": "えっと、今年24…25の年になりますね",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.589,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 8.48,
+          "end": 10.72,
+          "text": "OK",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.589,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員正面(引き)。客オフ『店員さんはいくつなんですか?』店員『えっと、今年24…25の年になりますね』。",
+      "candidate_reference_scenes": "見本34(回答)",
+      "audio_usage": "4.34-8.48(えっと、今年〜になりますね)",
+      "audio_exclusions": "0-3.56(質問は素材17側を使用)"
+    },
+    {
+      "name": "課題素材21",
+      "file": "videos/課題素材21.mov",
+      "duration_sec": 8.61,
+      "duration_str": "00:08.610",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 258,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11084 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 121 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:12+09:00",
+      "scan": {
+        "n_frames": 258,
+        "mean_luma": 59.2,
+        "mean_saturation": 126.2,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材21/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材21.wav",
+        "waveform": "analysis/material_audio/課題素材21_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.65,
+          2.6
+        ],
+        [
+          3.15,
+          3.55
+        ],
+        [
+          4.0,
+          4.4
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.68,
+          "text": "お買いにですね、よかったら店員さんもいっぱいどうぞ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.29,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.68,
+          "end": 3.46,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.29,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 3.46,
+          "end": 5.76,
+          "text": "私もお客様と同じものをいただいていいですか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.29,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 6.1,
+          "end": 6.28,
+          "text": "はい",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.29,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 6.28,
+          "end": 7.3,
+          "text": "ありがとうございます",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.29,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "店員正面(引き)。『お若いんですね、よかったら店員さんも一杯どうぞ』(客オフ)→『ありがとうございます』『私もお客様と同じものをいただいていいですか?』『はい』(客オフ)。",
+      "candidate_reference_scenes": "見本36",
+      "audio_usage": "2.68-5.76(ありがとうございます+私もお客様と…)",
+      "audio_exclusions": "0-2.68(客セリフ、素材2と重複)/6.10-7.30(はい以降、素材2と重複)"
+    },
+    {
+      "name": "課題素材22",
+      "file": "videos/課題素材22.mov",
+      "duration_sec": 6.5,
+      "duration_str": "00:06.500",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 195,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11457 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 120 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:13+09:00",
+      "scan": {
+        "n_frames": 195,
+        "mean_luma": 69.2,
+        "mean_saturation": 139.5,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材22/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材22.wav",
+        "waveform": "analysis/material_audio/課題素材22_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          0.55,
+          1.1
+        ],
+        [
+          2.25,
+          3.85
+        ],
+        [
+          4.6,
+          4.9
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 1.66,
+          "text": "割り方はどうされますか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.183,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 1.94,
+          "end": 3.94,
+          "text": "ロックじゃなくてお茶割りでお願いします",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.183,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 3.94,
+          "end": 4.98,
+          "text": "かしこまりました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.183,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客正面(寄り)。『(割り方は?)』『ロックじゃなくてお茶割りでお願いします』。",
+      "candidate_reference_scenes": "見本8後半",
+      "audio_usage": "2.85-3.94(お茶割りでお願いします ※『ロックじゃなくて』は見本に無いためカット)",
+      "audio_exclusions": "0-1.66(店員セリフ、素材3と重複)/1.94-2.85(ロックじゃなくて)"
+    },
+    {
+      "name": "課題素材23",
+      "file": "videos/課題素材23.mov",
+      "duration_sec": 11.33,
+      "duration_str": "00:11.330",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30.0,
+      "frame_count": 340,
+      "rotation_deg": 0.0,
+      "video_stream": "hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 1080x1920, 11541 kb/s, 30 fps, 30 tbr, 1000k tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 125 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:14+09:00",
+      "scan": {
+        "n_frames": 340,
+        "mean_luma": 73.5,
+        "mean_saturation": 100.8,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材23/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材23.wav",
+        "waveform": "analysis/material_audio/課題素材23_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          1.3,
+          1.8
+        ],
+        [
+          2.5,
+          2.8
+        ],
+        [
+          5.1,
+          5.4
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 3.3,
+          "text": "ありがとうございます。またお越しくださいませ。",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.376,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客が席を立って出口へ歩き去る(引き)。冒頭に『ありがとうございます。またお越しくださいませ』(オフ)。",
+      "candidate_reference_scenes": "見本49(退席)",
+      "audio_usage": "使用しない(素材12と重複)",
+      "audio_exclusions": "0-3.3(またお越し…・重複)"
+    },
+    {
+      "name": "課題素材24",
+      "file": "videos/課題素材24.mov",
+      "duration_sec": 16.14,
+      "duration_str": "00:16.140",
+      "width": 1080,
+      "height": 1920,
+      "fps": 59.788,
+      "frame_count": 1016,
+      "rotation_deg": -90.0,
+      "video_stream": "hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/arib-std-b67), 1920x1080, 21932 kb/s, 59.79 fps, 59.94 tbr, 600 tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 170 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:19+09:00",
+      "scan": {
+        "n_frames": 968,
+        "mean_luma": 109.9,
+        "mean_saturation": 59.4,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材24/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材24.wav",
+        "waveform": "analysis/material_audio/課題素材24_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          5.5,
+          6.05
+        ],
+        [
+          11.7,
+          13.3
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 5.5,
+          "text": "いいよ ありがとうございます またお越しくださいませ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.767,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 5.5,
+          "end": 7.5,
+          "text": "ん",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.767,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 12.0,
+          "end": 14.76,
+          "text": "ありがとうございました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.767,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "廊下アングル(60fps・回転メタデータ-90°)。客+店員が歩いてくる→ジャケット寄り→店員がお辞儀『ありがとうございました』。",
+      "candidate_reference_scenes": "見本50〜52(退店〜エンディング)",
+      "audio_usage": "12.0-14.76(ありがとうございました)",
+      "audio_exclusions": "0-7.5(いいよ/またお越し…・撮影段取りと重複セリフ)"
+    },
+    {
+      "name": "課題素材25",
+      "file": "videos/課題素材25.mov",
+      "duration_sec": 9.15,
+      "duration_str": "00:09.150",
+      "width": 720,
+      "height": 1280,
+      "fps": 30.044,
+      "frame_count": 276,
+      "rotation_deg": 0.0,
+      "video_stream": "h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 3007 kb/s, 30.04 fps, 30 tbr, 600 tbn (default)",
+      "audio": {
+        "present": true,
+        "raw": "aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 181 kb/s (default)",
+        "codec": "aac",
+        "sample_rate": 44100,
+        "channels": "stereo"
+      },
+      "analyzed_at": "2026-07-12T14:34:20+09:00",
+      "scan": {
+        "n_frames": 275,
+        "mean_luma": 70.0,
+        "mean_saturation": 130.4,
+        "internal_cuts": []
+      },
+      "contact_sheet": "analysis/material_frames/課題素材25/_contact_sheet.jpg",
+      "audio_files": {
+        "wav": "analysis/material_audio/課題素材25.wav",
+        "waveform": "analysis/material_audio/課題素材25_waveform.png"
+      },
+      "speech_segments_rms": [
+        [
+          1.0,
+          1.5
+        ],
+        [
+          2.7,
+          5.05
+        ],
+        [
+          6.1,
+          7.05
+        ],
+        [
+          7.8,
+          8.1
+        ]
+      ],
+      "transcript": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": "このようなどうされますか?",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.467,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 2.0,
+          "end": 5.0,
+          "text": "えーと、何にしようかなぁ",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.467,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 5.0,
+          "end": 7.0,
+          "text": "じゃあ、二階堂で",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.467,
+          "suspected_hallucination": false
+        },
+        {
+          "start": 7.0,
+          "end": 9.0,
+          "text": "確かにおりました",
+          "no_speech_prob": 0.0,
+          "avg_logprob": -0.467,
+          "suspected_hallucination": false
+        }
+      ],
+      "content_description": "客正面(寄り・720×1280と低解像度)。あご に手を当てて思案→話す。冒頭にオフ声『お飲み物どうされますか?』。",
+      "candidate_reference_scenes": "見本6・7(モノクロ思案〜二階堂で)",
+      "audio_usage": "使用しない(オフ声は素材11と重複)",
+      "audio_exclusions": "0-2.0(重複オフ声)"
+    }
+  ]
+}

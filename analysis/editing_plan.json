@@ -1,0 +1,683 @@
+{
+  "source": "reference/reference.mp4",
+  "generated_at": "2026-07-12T14:16:26+09:00",
+  "note": "自動解析による下書きです。素材25本との照合前の段階であり、演出はすべて『候補』です。人の確認・文章での修正指示を前提とします。",
+  "video": {
+    "duration_sec": 81.68,
+    "width": 1080,
+    "height": 1920,
+    "fps": 60.0
+  },
+  "timeline": [
+    {
+      "cut": 1,
+      "start": "00:00.000",
+      "end": "00:00.917",
+      "duration_sec": 0.917,
+      "transition_in": "先頭",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 2,
+      "start": "00:00.917",
+      "end": "00:02.567",
+      "duration_sec": 1.65,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 3,
+      "start": "00:02.567",
+      "end": "00:04.067",
+      "duration_sec": 1.5,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 4,
+      "start": "00:04.067",
+      "end": "00:06.733",
+      "duration_sec": 2.667,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 5,
+      "start": "00:06.733",
+      "end": "00:08.067",
+      "duration_sec": 1.333,
+      "transition_in": "カット",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 6,
+      "start": "00:08.067",
+      "end": "00:10.233",
+      "duration_sec": 2.167,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "モノクロ",
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 7,
+      "start": "00:10.233",
+      "end": "00:11.083",
+      "duration_sec": 0.85,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 8,
+      "start": "00:11.083",
+      "end": "00:14.333",
+      "duration_sec": 3.25,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 9,
+      "start": "00:14.333",
+      "end": "00:15.133",
+      "duration_sec": 0.8,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 10,
+      "start": "00:15.133",
+      "end": "00:16.517",
+      "duration_sec": 1.383,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 11,
+      "start": "00:16.517",
+      "end": "00:18.083",
+      "duration_sec": 1.567,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 12,
+      "start": "00:18.083",
+      "end": "00:19.250",
+      "duration_sec": 1.167,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 13,
+      "start": "00:19.250",
+      "end": "00:20.717",
+      "duration_sec": 1.467,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 14,
+      "start": "00:20.717",
+      "end": "00:21.483",
+      "duration_sec": 0.767,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 15,
+      "start": "00:21.483",
+      "end": "00:22.383",
+      "duration_sec": 0.9,
+      "transition_in": "カット",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 16,
+      "start": "00:22.383",
+      "end": "00:23.167",
+      "duration_sec": 0.783,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 17,
+      "start": "00:23.167",
+      "end": "00:24.133",
+      "duration_sec": 0.967,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 18,
+      "start": "00:24.133",
+      "end": "00:24.900",
+      "duration_sec": 0.767,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 19,
+      "start": "00:24.900",
+      "end": "00:26.267",
+      "duration_sec": 1.367,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 20,
+      "start": "00:26.267",
+      "end": "00:27.050",
+      "duration_sec": 0.783,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 21,
+      "start": "00:27.050",
+      "end": "00:27.833",
+      "duration_sec": 0.783,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 22,
+      "start": "00:27.833",
+      "end": "00:28.733",
+      "duration_sec": 0.9,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 23,
+      "start": "00:28.733",
+      "end": "00:29.783",
+      "duration_sec": 1.05,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 24,
+      "start": "00:29.783",
+      "end": "00:30.650",
+      "duration_sec": 0.867,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 25,
+      "start": "00:30.650",
+      "end": "00:32.800",
+      "duration_sec": 2.15,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 26,
+      "start": "00:32.800",
+      "end": "00:35.467",
+      "duration_sec": 2.667,
+      "transition_in": "ディゾルブ候補(要確認)",
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 27,
+      "start": "00:35.467",
+      "end": "00:37.200",
+      "duration_sec": 1.733,
+      "transition_in": "ディゾルブ候補(要確認)",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 28,
+      "start": "00:37.200",
+      "end": "00:40.533",
+      "duration_sec": 3.333,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 29,
+      "start": "00:40.533",
+      "end": "00:41.683",
+      "duration_sec": 1.15,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 30,
+      "start": "00:41.683",
+      "end": "00:42.867",
+      "duration_sec": 1.183,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 31,
+      "start": "00:42.867",
+      "end": "00:45.800",
+      "duration_sec": 2.933,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 32,
+      "start": "00:45.800",
+      "end": "00:46.917",
+      "duration_sec": 1.117,
+      "transition_in": "ディゾルブ候補(要確認)",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 33,
+      "start": "00:46.917",
+      "end": "00:48.267",
+      "duration_sec": 1.35,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 34,
+      "start": "00:48.267",
+      "end": "00:51.050",
+      "duration_sec": 2.783,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補",
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 35,
+      "start": "00:51.050",
+      "end": "00:53.233",
+      "duration_sec": 2.183,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 36,
+      "start": "00:53.233",
+      "end": "00:56.267",
+      "duration_sec": 3.033,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 37,
+      "start": "00:56.267",
+      "end": "00:57.083",
+      "duration_sec": 0.817,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 38,
+      "start": "00:57.083",
+      "end": "00:58.433",
+      "duration_sec": 1.35,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 39,
+      "start": "00:58.433",
+      "end": "01:00.200",
+      "duration_sec": 1.767,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補",
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 40,
+      "start": "01:00.200",
+      "end": "01:01.850",
+      "duration_sec": 1.65,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 41,
+      "start": "01:01.850",
+      "end": "01:02.817",
+      "duration_sec": 0.967,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 42,
+      "start": "01:02.817",
+      "end": "01:04.517",
+      "duration_sec": 1.7,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補",
+        "静止(商品画像表示候補)"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 43,
+      "start": "01:04.517",
+      "end": "01:05.550",
+      "duration_sec": 1.033,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 44,
+      "start": "01:05.550",
+      "end": "01:07.267",
+      "duration_sec": 1.717,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 45,
+      "start": "01:07.267",
+      "end": "01:09.300",
+      "duration_sec": 2.033,
+      "transition_in": "ディゾルブ候補(要確認)",
+      "effect_candidates": [
+        "ズームアウト候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 46,
+      "start": "01:09.300",
+      "end": "01:10.083",
+      "duration_sec": 0.783,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 47,
+      "start": "01:10.083",
+      "end": "01:12.250",
+      "duration_sec": 2.167,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "黒背景"
+      ],
+      "product_image_candidate": true,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 48,
+      "start": "01:12.250",
+      "end": "01:13.533",
+      "duration_sec": 1.283,
+      "transition_in": "カット",
+      "effect_candidates": [],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 49,
+      "start": "01:13.533",
+      "end": "01:16.417",
+      "duration_sec": 2.883,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 50,
+      "start": "01:16.417",
+      "end": "01:18.733",
+      "duration_sec": 2.317,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 51,
+      "start": "01:18.733",
+      "end": "01:19.967",
+      "duration_sec": 1.233,
+      "transition_in": "ディゾルブ候補",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    },
+    {
+      "cut": 52,
+      "start": "01:19.967",
+      "end": "01:21.680",
+      "duration_sec": 1.713,
+      "transition_in": "カット",
+      "effect_candidates": [
+        "ズームイン候補"
+      ],
+      "product_image_candidate": false,
+      "material": null,
+      "notes": ""
+    }
+  ],
+  "events": {
+    "flash_candidates": []
+  },
+  "next_phase": [
+    "素材動画25本との照合",
+    "商品画像3枚の割り当て",
+    "試作動画の生成"
+  ]
+}
