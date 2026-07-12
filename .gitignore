@@ -179,3 +179,26 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# ---- プロジェクト固有: 大容量素材・生成物を除外 ----
+.venv/
+
+# 参考動画
+reference/*.mp4
+
+# 素材フォルダ(中身は除外、.gitkeep のみ残す)
+videos/*
+!videos/.gitkeep
+images/*
+!images/.gitkeep
+assets/*
+!assets/.gitkeep
+output/*
+!output/.gitkeep
+
+# 解析の中間生成物(JSON/MD/CSV は残す)
+analysis/material_audio/
+analysis/material_frames/
+analysis/reference_frames/
+analysis/*.wav
+analysis/*_waveform.png
