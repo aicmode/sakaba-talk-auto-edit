@@ -36,7 +36,7 @@ import numpy as np
 from imageio_ffmpeg import get_ffmpeg_exe
 
 ROOT = Path(__file__).resolve().parent.parent
-CURRENT = ROOT / "output" / "prototype_dialogue_cut_fixed.mp4"
+CURRENT = ROOT / "output" / "prototype_video_transition_fixed.mp4"
 REFERENCE = ROOT / "reference" / "reference.mp4"
 
 FPS = 30
@@ -53,7 +53,14 @@ FFMPEG = get_ffmpeg_exe()
 STEM = [
     (0.000, 10, 1.100, 3.940, .010, .010, "いらっしゃいませ 何名様ですか?"),
     (2.570, 4, 2.000, 4.000, .010, .010, "あ、一人です/かしこまりました"),
-    (4.070, 4, 4.000, 6.000, .010, .010, "こちらの席へどうぞ/ありがとうございます"),
+    # 「かしこまりました」の実発話は4.48秒付近まで。旧4.370配置では次の実発話が
+    # 4.57秒からで間が約80msしかなく切替が早く感じられたため、クリップを2分割し
+    # 「こちらの席へどうぞ」(実発話=素材4.20-5.00秒)を4.630配置へ+260ms移動。
+    # 実発話開始は4.83秒となり、約350msの自然な間になる。
+    (4.630, 4, 4.000, 5.100, .010, .050, "こちらの席へどうぞ"),
+    # 「ありがとうございます」(実発話=素材5.31-5.98秒)は+150msに留め、
+    # 前とは約200ms、次の「お飲み物」実発話(6.67秒〜)とは約170msの間を確保。
+    (5.670, 4, 5.150, 6.000, .050, .010, "ありがとうございます"),
     (6.000, 11, 0.000, 2.000, .010, .010, "お飲み物どうされますか?"),
     (8.100, 11, 2.600, 4.800, .010, .010, "何にしようかなぁ"),
     # 旧: (10.250, 11, 5.400, 6.400) — 「じゃあ」込みで「堂」の途中終わり
@@ -220,6 +227,8 @@ def build_first_half(work: Path) -> Path:
     total = LOCK_FRAME * SR // FPS
     print("[1/4] 会話ステム(二階堂で全文復元)")
     stem = build_stem(total)
+    # 現行 prototype.mp4 で既に除去済みの冒頭「あっ」を維持する。
+    stem[int(2.860 * SR):int(3.085 * SR)] = 0.0
     print("[2/4] 冒頭ルームトーン(人声なし)+ 現場音(従来どおり)")
     bed = build_roomtone(total)
     amb = build_foley(total)
