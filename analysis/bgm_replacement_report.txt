@@ -1,0 +1,11 @@
+source=/Users/deerify/Documents/GitHub/sakaba-talk-auto-edit/reference/reference.mp4
+model=htdemucs shifts=2 overlap=0.5
+music_stems=bass+drums+other (vocals excluded)
+music_gain_db=-1.5
+duck_db=-3.5
+mute=8.066667-9.980
+resume_fade=0.6
+nonvocal_vocal_corr=0.097841
+music_rms_db=-33.43
+mix_peak_before_limiter=1.007733
+old_container_sha=a8d8c69ac59826fe8763271a391577cf551f6d4036394f060fbb9350918bcec4
